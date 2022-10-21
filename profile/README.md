@@ -2,7 +2,7 @@
 
 Welcome to the Institute of Computational Biological Chemistry.
 
-Here you can fond different packages, files and more!
+Here you can find different packages, files and more!
 
 Have a look at our webpage for more information: https://www.mdy.univie.ac.at
 
